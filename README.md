@@ -112,7 +112,7 @@ dotnet run
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Rafael Dourado** com apoio do ChatGPT.
+Projeto desenvolvido por **Rafael Dourado**.
 
 ---
 
